@@ -3,7 +3,7 @@ from tkinter import *
 
 window = Tk()
 
-logo = PhotoImage(file="logo.png")
+logo = PhotoImage(file="icons/logo.png")
 
 label = Label(window, 
               text="Hello from CSeven", 
