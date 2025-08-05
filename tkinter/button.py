@@ -23,7 +23,7 @@ button.config(activebackground="blue") # when click on button
 
 button.config(activeforeground="white") # when click on button
 
-picture = PhotoImage(file="button.png")
+picture = PhotoImage(file="icons/button.png")
 
 button.config(image= picture)
 
